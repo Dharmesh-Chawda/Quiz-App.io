@@ -1,0 +1,31 @@
+[
+    {
+        "question":"What's the Capital of India ?",
+        "choice1" : "Mumbai",
+        "choice2" : "Gujarat",
+        "choice3": "Delhi",
+        "choice4" : "Chennai",
+        "answer" :3
+    
+    },
+
+    {
+        "question":"What's the National Animal of India ?",
+        "choice1" : "Blackbuck",
+        "choice2" : "Elephant",
+        "choice3" : "Lion",
+        "choice4" : "Tiger",
+        "answer" :4
+    
+    },
+
+    {
+        "question":"What is the name of ocean of India ?",
+        "choice1" : "Indian Ocean",
+        "choice2" : "Pacific Ocean",
+        "choice3" : "Arabian Ocean",
+        "choice4" : "Arctic Ocean",
+        "answer" :1
+    
+    }
+]
